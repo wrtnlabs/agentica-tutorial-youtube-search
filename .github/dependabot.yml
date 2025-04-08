@@ -20,6 +20,9 @@ updates:
           - "@agentica/*"
           - "openai"
           - "typia"
+      Connector:
+        patterns:
+          - "@wrtnlabs/connector*"
       TypeScript:
         patterns:
           - "typescript"
